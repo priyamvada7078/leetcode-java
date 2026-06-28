@@ -1,33 +1,29 @@
-
-
 class Solution {
-
-    public void backtrack(List<String> ans, String current,
-                          int open, int close, int n) {
-
-        // Base Case
-        if (current.length() == 2 * n) {
-            ans.add(current);
-            return;
-        }
-
-        // Add '(' if available
-        if (open < n) {
-            backtrack(ans, current + "(", open + 1, close, n);
-        }
-
-        // Add ')' only if it won't make the string invalid
-        if (close < open) {
-            backtrack(ans, current + ")", open, close + 1, n);
-        }
-    }
 
     public List<String> generateParenthesis(int n) {
 
-        List<String> ans = new ArrayList<>();
+        List<List<String>> dp = new ArrayList<>();
 
-        backtrack(ans, "", 0, 0, n);
+        dp.add(Arrays.asList(""));
 
-        return ans;
+        for (int i = 1; i <= n; i++) {
+
+            List<String> current = new ArrayList<>();
+
+            for (int j = 0; j < i; j++) {
+
+                for (String left : dp.get(j)) {
+
+                    for (String right : dp.get(i - j - 1)) {
+
+                        current.add("(" + left + ")" + right);
+                    }
+                }
+            }
+
+            dp.add(current);
+        }
+
+        return dp.get(n);
     }
 }
