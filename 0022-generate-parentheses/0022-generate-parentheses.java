@@ -1,38 +1,32 @@
+
+
 class Solution {
 
-    public boolean isValid(String s) {
-        int balance = 0;
+    public void backtrack(List<String> ans, String current,
+                          int open, int close, int n) {
 
-        for (char ch : s.toCharArray()) {
-            if (ch == '(')
-                balance++;
-            else
-                balance--;
-
-            if (balance < 0)
-                return false;
-        }
-
-        return balance == 0;
-    }
-
-    public void generateAll(String curr, int len, List<String> ans) {
-
-        if (curr.length() == len) {
-            if (isValid(curr))
-                ans.add(curr);
+        // Base Case
+        if (current.length() == 2 * n) {
+            ans.add(current);
             return;
         }
 
-        generateAll(curr + "(", len, ans);
-        generateAll(curr + ")", len, ans);
+        // Add '(' if available
+        if (open < n) {
+            backtrack(ans, current + "(", open + 1, close, n);
+        }
+
+        // Add ')' only if it won't make the string invalid
+        if (close < open) {
+            backtrack(ans, current + ")", open, close + 1, n);
+        }
     }
 
     public List<String> generateParenthesis(int n) {
 
         List<String> ans = new ArrayList<>();
 
-        generateAll("", 2 * n, ans);
+        backtrack(ans, "", 0, 0, n);
 
         return ans;
     }
