@@ -109,4 +109,9 @@ Preparing for:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0039-combination-sum) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
