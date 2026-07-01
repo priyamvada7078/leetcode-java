@@ -104,12 +104,14 @@ Preparing for:
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
 | ------- |
