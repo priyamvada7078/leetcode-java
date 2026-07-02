@@ -8,7 +8,6 @@ class Solution {
 
         boolean[][] pal = new boolean[n][n];
 
-        // STEP 1: palindrome DP
         for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j < n; j++) {
 
@@ -23,12 +22,10 @@ class Solution {
             }
         }
 
-        // STEP 2: min cut DP
-        int[] dp = new int[n];
+              int[] dp = new int[n];
 
         for (int i = 0; i < n; i++) {
 
-            // worst case: cut before every char
             dp[i] = i;
 
             for (int j = 0; j <= i; j++) {
