@@ -8,6 +8,7 @@ class Solution {
 
         boolean[][] pal = new boolean[n][n];
 
+        // STEP 1: palindrome DP
         for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j < n; j++) {
 
@@ -22,25 +23,25 @@ class Solution {
             }
         }
 
-              int[] dp = new int[n];
+    int[] dp = new int[n+1];
 
-        for (int i = 0; i < n; i++) {
+dp[n] = 0;
 
-            dp[i] = i;
+for(int i =n-1;i>=0;i--)
+{
+    int ans = Integer.MAX_VALUE;
 
-            for (int j = 0; j <= i; j++) {
-
-                if (pal[j][i]) {
-
-                    if (j == 0) {
-                        dp[i] = 0;
-                    } else {
-                        dp[i] = Math.min(dp[i], dp[j - 1] + 1);
-                    }
-                }
-            }
+    for(int j =i;j<n;j++)
+    {
+        if(pal[i][j])
+        {
+            ans = Math.min(ans, 1 + dp[j+1]);
         }
+    }
 
-        return dp[n - 1];
+    dp[i] = ans;
+}
+
+return dp[0]-1;
     }
 }
