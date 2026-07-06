@@ -1,61 +1,77 @@
 class Solution {
-    static List<List<String>> list = new ArrayList<>();
+
+    List<List<String>> ans = new ArrayList<>();
 
     public List<List<String>> solveNQueens(int n) {
-        list = new ArrayList<>();
 
-        int[][] arr = new int[n][n];
-        place(0, arr);
-        return list;
+        char[][] board = new char[n][n];
+
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(board[i], '.');
+        }
+
+        solve(0, board, n);
+
+        return ans;
     }
 
-    private static void place(int row, int[][] arr) {
-        if (row == arr.length) {
-            print(arr);
+    private void solve(int row, char[][] board, int n) {
+
+        if (row == n) {
+            ans.add(construct(board));
             return;
         }
-        for (int col = 0; col < arr.length; col++) {
-            if (isSafe(row, col, arr)) {
-                arr[row][col] = 1;
-                place(row + 1, arr);
-                arr[row][col] = 0;
+
+        for (int col = 0; col < n; col++) {
+
+            if (isSafe(board, row, col, n)) {
+
+                board[row][col] = 'Q';
+
+                solve(row + 1, board, n);
+
+                board[row][col] = '.';
             }
         }
     }
 
-    private static boolean isSafe(int row, int col, int[][] arr) {
-        int r = row;
-        int c = col;
+    private boolean isSafe(char[][] board, int row, int col, int n) {
 
-        //        Up
-        while (r >= 0)
-            if (arr[r--][c] == 1)
+        // Check column
+        for (int i = row - 1; i >= 0; i--) {
+            if (board[i][col] == 'Q')
                 return false;
+        }
 
-        //        left diagonal
-        r = row;
-        while (r >= 0 && c >= 0)
-            if (arr[r--][c--] == 1)
-                return false;
+        // Check upper-left diagonal
+        for (int i = row - 1, j = col - 1;
+             i >= 0 && j >= 0;
+             i--, j--) {
 
-        //        right diagonal
-        r = row;
-        c = col;
-        while (r >= 0 && c < arr.length)
-            if (arr[r--][c++] == 1)
+            if (board[i][j] == 'Q')
                 return false;
+        }
+
+        // Check upper-right diagonal
+        for (int i = row - 1, j = col + 1;
+             i >= 0 && j < n;
+             i--, j++) {
+
+            if (board[i][j] == 'Q')
+                return false;
+        }
 
         return true;
     }
 
-    private static void print(int[][] arr) {
-        List<String> ans = new ArrayList<>();
-        for (int row = 0; row < arr.length; row++) {
-            String s = "";
-            for (int col = 0; col < arr.length; col++)
-                s += (arr[row][col] == 1 ? 'Q' : '.');
-            ans.add(s);
+    private List<String> construct(char[][] board) {
+
+        List<String> curr = new ArrayList<>();
+
+        for (int i = 0; i < board.length; i++) {
+            curr.add(new String(board[i]));
         }
-        list.add(ans);
+
+        return curr;
     }
 }
