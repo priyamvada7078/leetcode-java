@@ -106,6 +106,7 @@ Preparing for:
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Preparing for:
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Preparing for:
 | [0051-n-queens](https://github.com/priyamvada7078/leetcode-java/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
@@ -145,6 +148,7 @@ Preparing for:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,4 +158,12 @@ Preparing for:
 | ------- |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
