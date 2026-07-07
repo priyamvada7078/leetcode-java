@@ -120,6 +120,7 @@ Preparing for:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/priyamvada7078/leetcode-java/tree/master/0051-n-queens) |
@@ -131,6 +132,7 @@ Preparing for:
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/priyamvada7078/leetcode-java/tree/master/0051-n-queens) |
@@ -148,6 +150,7 @@ Preparing for:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
@@ -157,6 +160,7 @@ Preparing for:
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 ## Trie
