@@ -107,6 +107,7 @@ Preparing for:
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Preparing for:
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
@@ -183,4 +185,8 @@ Preparing for:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
+## Math
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
