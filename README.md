@@ -149,6 +149,7 @@ Preparing for:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
@@ -192,6 +193,7 @@ Preparing for:
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 ## Simulation
