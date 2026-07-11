@@ -151,6 +151,7 @@ Preparing for:
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
@@ -208,5 +209,6 @@ Preparing for:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
