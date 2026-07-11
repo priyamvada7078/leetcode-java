@@ -131,6 +131,7 @@ Preparing for:
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/priyamvada7078/leetcode-java/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
@@ -156,6 +157,7 @@ Preparing for:
 | [0191-number-of-1-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/priyamvada7078/leetcode-java/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
