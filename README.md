@@ -116,6 +116,7 @@ Preparing for:
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Preparing for:
 | [0190-reverse-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
