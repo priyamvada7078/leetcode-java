@@ -142,6 +142,7 @@ Preparing for:
 | [0051-n-queens](https://github.com/priyamvada7078/leetcode-java/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/0485-max-consecutive-ones) |
@@ -153,6 +154,7 @@ Preparing for:
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
