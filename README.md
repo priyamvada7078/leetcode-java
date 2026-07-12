@@ -158,6 +158,7 @@ Preparing for:
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/priyamvada7078/leetcode-java/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/priyamvada7078/leetcode-java/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/priyamvada7078/leetcode-java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
