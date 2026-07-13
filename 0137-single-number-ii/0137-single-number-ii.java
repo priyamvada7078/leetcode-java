@@ -1,18 +1,24 @@
 class Solution {
     public int singleNumber(int[] nums) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int ans = 0;
 
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+        for (int bit = 0; bit < 32; bit++) {
 
-        for (int num : nums) {
-            if (map.get(num) != 3) {
-                return num;
+            int count = 0;
+
+            for (int num : nums) {
+
+                if (((num >> bit) & 1) == 1) {
+                    count++;
+                }
+            }
+
+            if (count % 3 != 0) {
+                ans |= (1 << bit);
             }
         }
 
-        return -1;
+        return ans;
     }
 }
