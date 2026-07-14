@@ -1,22 +1,25 @@
-import java.util.*;
-
 class Solution {
     public int[] singleNumber(int[] nums) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int xor = 0;
 
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            xor ^= num;
         }
 
-        ArrayList<Integer> list = new ArrayList<>();
+        int rightMostSetBit = xor & (-xor);
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() == 1) {
-                list.add(entry.getKey());
-            }
+        int a = 0;
+        int b = 0;
+
+        for (int num : nums) {
+
+            if ((num & rightMostSetBit) == 0)
+                a ^= num;
+            else
+                b ^= num;
         }
 
-        return list.stream().mapToInt(Integer::intValue).toArray();
+        return new int[]{a, b};
     }
 }
