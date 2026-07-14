@@ -212,10 +212,12 @@ Preparing for:
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -233,4 +235,5 @@ Preparing for:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
