@@ -210,6 +210,7 @@ Preparing for:
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/priyamvada7078/leetcode-java/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/priyamvada7078/leetcode-java/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
@@ -238,4 +239,8 @@ Preparing for:
 | ------- |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/priyamvada7078/leetcode-java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
