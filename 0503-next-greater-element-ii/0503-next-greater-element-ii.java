@@ -2,20 +2,27 @@ class Solution {
     public int[] nextGreaterElements(int[] nums) {
 
         int n = nums.length;
+
+        // Create doubled array
+        int[] arr = new int[2 * n];
+        for (int i = 0; i < 2 * n; i++) {
+            arr[i] = nums[i % n];
+        }
+
         int[] ans = new int[n];
-        Stack<Integer> st = new Stack<>();
 
-        for (int i = 2 * n - 1; i >= 0; i--) {
+        for (int i = 0; i < n; i++) {
 
-            while (!st.isEmpty() && st.peek() <= nums[i % n]) {
-                st.pop();
+            ans[i] = -1;
+
+            // Search in the circular part
+            for (int j = i + 1; j < i + n; j++) {
+
+                if (arr[j] > arr[i]) {
+                    ans[i] = arr[j];
+                    break;
+                }
             }
-
-            if (i < n) {
-                ans[i] = st.isEmpty() ? -1 : st.peek();
-            }
-
-            st.push(nums[i % n]);
         }
 
         return ans;
