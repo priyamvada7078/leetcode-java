@@ -10,19 +10,21 @@ class Solution {
         }
 
         int[] ans = new int[n];
+        Stack<Integer> st = new Stack<>();
 
-        for (int i = 0; i < n; i++) {
+        // Traverse doubled array from right to left
+        for (int i = 2 * n - 1; i >= 0; i--) {
 
-            ans[i] = -1;
-
-            // Search in the circular part
-            for (int j = i + 1; j < i + n; j++) {
-
-                if (arr[j] > arr[i]) {
-                    ans[i] = arr[j];
-                    break;
-                }
+            while (!st.isEmpty() && st.peek() <= arr[i]) {
+                st.pop();
             }
+
+            // Store answer only for original array
+            if (i < n) {
+                ans[i] = st.isEmpty() ? -1 : st.peek();
+            }
+
+            st.push(arr[i]);
         }
 
         return ans;
