@@ -151,6 +151,7 @@ Preparing for:
 | [0260-single-number-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
@@ -254,6 +255,7 @@ Preparing for:
 | [0225-implement-stack-using-queues](https://github.com/priyamvada7078/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyamvada7078/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -269,4 +271,5 @@ Preparing for:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
