@@ -150,6 +150,7 @@ Preparing for:
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
@@ -175,6 +176,7 @@ Preparing for:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,6 +253,7 @@ Preparing for:
 | [0155-min-stack](https://github.com/priyamvada7078/leetcode-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/priyamvada7078/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyamvada7078/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -262,4 +265,8 @@ Preparing for:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyamvada7078/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyamvada7078/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
