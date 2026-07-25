@@ -1,47 +1,41 @@
-import java.util.Stack;
-
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
 
-        Stack<Integer> stack = new Stack<>();
+        int n = asteroids.length;
+        int[] stack = new int[n];
+        int top = -1;
 
         for (int asteroid : asteroids) {
 
-            // Assume the current asteroid survives
             boolean alive = true;
 
-            // Collision is possible only when:
-            // top of stack is moving right and current asteroid is moving left
-            while (!stack.isEmpty() && stack.peek() > 0 && asteroid < 0) {
+            while (alive && top >= 0 && stack[top] > 0 && asteroid < 0) {
 
-                if (stack.peek() < -asteroid) {
-                    // Top asteroid is smaller, so it explodes
-                    stack.pop();
+                if (stack[top] < -asteroid) {
+                    // Top asteroid explodes
+                    top--;
 
-                } else if (stack.peek() == -asteroid) {
-                    // Both are of equal size, so both explode
-                    stack.pop();
+                } else if (stack[top] == -asteroid) {
+                    // Both explode
+                    top--;
                     alive = false;
-                    break;
 
                 } else {
-                    // Current asteroid is smaller, so it explodes
+                    // Current asteroid explodes
                     alive = false;
-                    break;
                 }
             }
 
-            // If current asteroid survived all collisions, push it
             if (alive) {
-                stack.push(asteroid);
+                stack[++top] = asteroid;
             }
         }
 
-        // Convert stack to array
-        int[] ans = new int[stack.size()];
+        // Copy surviving asteroids into the answer
+        int[] ans = new int[top + 1];
 
-        for (int i = stack.size() - 1; i >= 0; i--) {
-            ans[i] = stack.pop();
+        for (int i = 0; i <= top; i++) {
+            ans[i] = stack[i];
         }
 
         return ans;
