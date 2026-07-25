@@ -109,6 +109,7 @@ Preparing for:
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Preparing for:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
@@ -283,4 +285,8 @@ Preparing for:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
