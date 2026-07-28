@@ -1,32 +1,35 @@
-// Java
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        int[] left = new int[n];
-        int[] right = new int[n];
-        Stack<Integer> stack = new Stack<>();
-
-        // Nearest Smaller to Left
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) stack.pop();
-            left[i] = stack.isEmpty() ? -1 : stack.peek();
-            stack.push(i);
-        }
-
-        stack.clear(); // Reuse stack
-
-        // Nearest Smaller to Right
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) stack.pop();
-            right[i] = stack.isEmpty() ? n : stack.peek();
-            stack.push(i);
-        }
-
+        if(n == 0) return 0; // Base Condition
         int maxArea = 0;
-        for (int i = 0; i < n; i++) {
+        int left[] = new int[n]; //fill left boundary
+        int right[] = new int[n]; // fill right boundary
+        
+        left[0] = -1;
+        right[n - 1] = n;
+        
+        for(int i = 1; i < n; i++){
+            int prev = i - 1; // previous for comparing the heights
+            while(prev >= 0 && heights[prev] >= heights[i]){
+                prev = left[prev]; // we have done this to minimise the jumps we make to the left
+            }
+            left[i] = prev;
+        }
+        // Similarly we do for right
+        for(int i = n - 2; i >= 0; i--){
+            int prev = i + 1; 
+            while(prev < n && heights[prev] >= heights[i]){
+                prev = right[prev]; 
+            }
+            right[i] = prev;
+        }
+        // once we have these two arrays fill we need width & area
+        for(int i = 0; i < n; i++){
             int width = right[i] - left[i] - 1;
             maxArea = Math.max(maxArea, heights[i] * width);
         }
         return maxArea;
+        
     }
 }
