@@ -122,6 +122,7 @@ Preparing for:
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -159,6 +160,7 @@ Preparing for:
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/priyamvada7078/leetcode-java/tree/master/0735-asteroid-collision) |
@@ -232,6 +234,7 @@ Preparing for:
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Simulation
 |  |
@@ -244,6 +247,7 @@ Preparing for:
 | ------- |
 | [0050-powx-n](https://github.com/priyamvada7078/leetcode-java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -332,4 +336,8 @@ Preparing for:
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/priyamvada7078/leetcode-java/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
