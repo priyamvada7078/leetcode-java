@@ -1,22 +1,27 @@
 class Solution {
 
+    Integer[][] dp;
+
     public boolean predictTheWinner(int[] nums) {
-        return solve(nums, 0, nums.length - 1) >= 0;
+        int n = nums.length;
+        dp = new Integer[n][n];
+
+        return solve(nums, 0, n - 1) >= 0;
     }
 
     private int solve(int[] nums, int i, int j) {
-        // Base case
+
         if (i == j) {
             return nums[i];
         }
 
-        // Choose left
-        int takeLeft = nums[i] - solve(nums, i + 1, j);
+        if (dp[i][j] != null) {
+            return dp[i][j];
+        }
 
-        // Choose right
+        int takeLeft = nums[i] - solve(nums, i + 1, j);
         int takeRight = nums[j] - solve(nums, i, j - 1);
 
-        // Return the best score difference
-        return Math.max(takeLeft, takeRight);
+        return dp[i][j] = Math.max(takeLeft, takeRight);
     }
 }
