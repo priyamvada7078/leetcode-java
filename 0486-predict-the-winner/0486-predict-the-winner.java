@@ -1,27 +1,25 @@
 class Solution {
-
-    Integer[][] dp;
-
     public boolean predictTheWinner(int[] nums) {
         int n = nums.length;
-        dp = new Integer[n][n];
+        int[] dp = new int[n];
 
-        return solve(nums, 0, n - 1) >= 0;
-    }
-
-    private int solve(int[] nums, int i, int j) {
-
-        if (i == j) {
-            return nums[i];
+        // Base case: dp[i] = nums[i]
+        for (int i = 0; i < n; i++) {
+            dp[i] = nums[i];
         }
 
-        if (dp[i][j] != null) {
-            return dp[i][j];
+        // Build solutions for larger subarrays
+        for (int len = 2; len <= n; len++) {
+            for (int i = n - len; i >= 0; i--) {
+                int j = i + len - 1;
+
+                dp[j] = Math.max(
+                    nums[i] - dp[j],      // take left
+                    nums[j] - dp[j - 1]   // take right
+                );
+            }
         }
 
-        int takeLeft = nums[i] - solve(nums, i + 1, j);
-        int takeRight = nums[j] - solve(nums, i, j - 1);
-
-        return dp[i][j] = Math.max(takeLeft, takeRight);
+        return dp[n - 1] >= 0;
     }
 }
