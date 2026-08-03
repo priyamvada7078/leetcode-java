@@ -125,6 +125,7 @@ Preparing for:
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
+| [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Preparing for:
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
+| [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
@@ -238,6 +240,7 @@ Preparing for:
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Simulation
 |  |
@@ -344,4 +347,13 @@ Preparing for:
 | ------- |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
