@@ -171,6 +171,7 @@ Preparing for:
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
+| [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
@@ -200,6 +201,7 @@ Preparing for:
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
 | [3731-find-missing-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -233,6 +235,7 @@ Preparing for:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
