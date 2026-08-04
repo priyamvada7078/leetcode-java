@@ -1,26 +1,15 @@
-public class Solution {
-    public int findPairs(int[] nums, int k) {
-        if (nums == null || nums.length == 0 || k < 0)   return 0;
-        
-        Map<Integer, Integer> map = new HashMap<>();
-        int count = 0;
-        for (int i : nums) {
-            map.put(i, map.getOrDefault(i, 0) + 1);
-        }
-        
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (k == 0) {
-                //count how many elements in the array that appear more than twice.
-                if (entry.getValue() >= 2) {
-                    count++;
-                } 
-            } else {
-                if (map.containsKey(entry.getKey() + k)) {
-                    count++;
-                }
-            }
-        }
-        
-        return count;
-    }
-}
+ // O(nlogn) Time Solution
+
+ class Solution {
+ 	public int findPairs(int[] nums, int k) {
+ 		Set<Integer> uniquePair = new HashSet();
+ 		Arrays.sort(nums);
+ 		int n = nums.length;
+
+ 		for (int i = 0; i < n - 1; i++)
+ 			if (Arrays.binarySearch(nums, i + 1, n, nums[i] + k) > 0)
+ 				uniquePair.add(nums[i]);
+
+ 		return uniquePair.size();
+ 	}
+ }
