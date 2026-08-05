@@ -209,6 +209,7 @@ Preparing for:
 | ------- |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/priyamvada7078/leetcode-java/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Preparing for:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/priyamvada7078/leetcode-java/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Preparing for:
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
+| [3310-remove-methods-from-project](https://github.com/priyamvada7078/leetcode-java/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
 | ------- |
