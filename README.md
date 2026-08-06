@@ -253,6 +253,7 @@ Preparing for:
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/priyamvada7078/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Preparing for:
 | ------- |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/priyamvada7078/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
