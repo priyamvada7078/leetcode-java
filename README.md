@@ -111,6 +111,7 @@ Preparing for:
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/priyamvada7078/leetcode-java/tree/master/0402-remove-k-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -127,6 +128,7 @@ Preparing for:
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -341,11 +343,13 @@ Preparing for:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/priyamvada7078/leetcode-java/tree/master/0402-remove-k-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
