@@ -127,6 +127,7 @@ Preparing for:
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
@@ -176,6 +177,7 @@ Preparing for:
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
@@ -255,6 +257,7 @@ Preparing for:
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyamvada7078/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -372,14 +375,17 @@ Preparing for:
 | ------- |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
@@ -394,4 +400,8 @@ Preparing for:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
