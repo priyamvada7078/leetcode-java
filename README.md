@@ -183,6 +183,7 @@ Preparing for:
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -210,6 +211,7 @@ Preparing for:
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -396,6 +398,7 @@ Preparing for:
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
