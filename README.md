@@ -188,6 +188,7 @@ Preparing for:
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyamvada7078/leetcode-java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -205,6 +206,7 @@ Preparing for:
 | [0461-hamming-distance](https://github.com/priyamvada7078/leetcode-java/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/priyamvada7078/leetcode-java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyamvada7078/leetcode-java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
