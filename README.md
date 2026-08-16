@@ -214,6 +214,7 @@ Preparing for:
 | [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
@@ -333,6 +334,7 @@ Preparing for:
 | [0155-min-stack](https://github.com/priyamvada7078/leetcode-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/priyamvada7078/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyamvada7078/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/priyamvada7078/leetcode-java/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -414,10 +416,12 @@ Preparing for:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/priyamvada7078/leetcode-java/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
