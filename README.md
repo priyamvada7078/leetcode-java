@@ -132,6 +132,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -183,6 +184,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
@@ -278,6 +280,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyamvada7078/leetcode-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -406,6 +409,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -413,6 +417,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -420,6 +425,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
@@ -441,6 +447,7 @@ Preparing for:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
