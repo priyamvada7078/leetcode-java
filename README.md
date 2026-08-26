@@ -112,6 +112,7 @@ Preparing for:
 | [0402-remove-k-digits](https://github.com/priyamvada7078/leetcode-java/tree/master/0402-remove-k-digits) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyamvada7078/leetcode-java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyamvada7078/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -389,6 +390,7 @@ Preparing for:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyamvada7078/leetcode-java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyamvada7078/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
