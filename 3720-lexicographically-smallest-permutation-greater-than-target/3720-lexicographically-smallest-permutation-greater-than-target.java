@@ -1,62 +1,101 @@
 class Solution {
     public String lexGreaterPermutation(String s, String target) {
+
         int n = s.length();
 
-        // Frequency of characters in s
-        int[] cnt = new int[26];
+        // Count frequency of characters in s
+        int[] freq = new int[26];
 
-        for (char c : s.toCharArray()) {
-            cnt[c - 'a']++;
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
-        // Try the position where we make the string greater.
-        // Rightmost position is preferred.
-        for (int i = n - 1; i >= 0; i--) {
+        StringBuilder ans = new StringBuilder();
 
-            // Rebuild the frequency array for this pivot.
-            int[] remain = cnt.clone();
+        for (int i = 0; i < n; i++) {
 
-            // Try to keep target[0 ... i-1] unchanged.
-            boolean possible = true;
+            char ch = target.charAt(i);
 
-            for (int j = 0; j < i; j++) {
-                int x = target.charAt(j) - 'a';
+            // Case 1: We can keep the same character as target
+            if (freq[ch - 'a'] > 0) {
 
-                if (remain[x] == 0) {
-                    possible = false;
-                    break;
-                }
+                ans.append(ch);
+                freq[ch - 'a']--;
 
-                remain[x]--;
-            }
+            } 
+            else {
 
-            if (!possible)
-                continue;
+                // We cannot continue matching target.
+                // Try to find a character greater than target[i].
+                int bigger = -1;
 
-            // At position i, we need the smallest
-            // available character strictly greater than target[i].
-            int targetChar = target.charAt(i) - 'a';
-
-            for (int c = targetChar + 1; c < 26; c++) {
-
-                if (remain[c] == 0)
-                    continue;
-
-                StringBuilder ans = new StringBuilder(target.substring(0, i));
-
-                // Make the first difference here.
-                ans.append((char) ('a' + c));
-
-                remain[c]--;
-
-                // Fill the rest in sorted order.
-                for (int x = 0; x < 26; x++) {
-                    for (int t = 0; t < remain[x]; t++) {
-                        ans.append((char) ('a' + x));
+                for (int j = ch - 'a' + 1; j < 26; j++) {
+                    if (freq[j] > 0) {
+                        bigger = j;
+                        break;
                     }
                 }
 
-                return ans.toString();
+                if (bigger != -1) {
+                    // We found a bigger character.
+                    ans.append((char)(bigger + 'a'));
+                    freq[bigger]--;
+
+                    // Put remaining characters in sorted order
+                    for (int j = 0; j < 26; j++) {
+                        while (freq[j] > 0) {
+                            ans.append((char)(j + 'a'));
+                            freq[j]--;
+                        }
+                    }
+
+                    return ans.toString();
+                }
+
+                // No bigger character here.
+                // Backtracking is needed.
+                break;
+            }
+        }
+
+        // We reached here because matching target failed.
+        // Backtrack from the last matched position.
+        for (int i = ans.length() - 1; i >= 0; i--) {
+
+            // Restore the character used at position i
+            char old = ans.charAt(i);
+            freq[old - 'a']++;
+
+            // Try to replace it with the smallest bigger character
+            int bigger = -1;
+
+            for (int j = old - 'a' + 1; j < 26; j++) {
+                if (freq[j] > 0) {
+                    bigger = j;
+                    break;
+                }
+            }
+
+            if (bigger != -1) {
+
+                StringBuilder result = new StringBuilder();
+
+                // Keep everything before i
+                result.append(ans.substring(0, i));
+
+                // Put a slightly bigger character
+                result.append((char)(bigger + 'a'));
+                freq[bigger]--;
+
+                // Put remaining characters in sorted order
+                for (int j = 0; j < 26; j++) {
+                    while (freq[j] > 0) {
+                        result.append((char)(j + 'a'));
+                        freq[j]--;
+                    }
+                }
+
+                return result.toString();
             }
         }
 
