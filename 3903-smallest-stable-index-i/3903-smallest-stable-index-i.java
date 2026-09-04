@@ -1,18 +1,24 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int n=nums.length;
-        int max=0;
-        int index=-1;
-        int min;    
-        for(int i=0;i<n;i++){
-           max=Math.max(max,nums[i]);
-           min=nums[i];
-           for(int j=i+1;j<n;j++) min=Math.min(min,nums[j]);
-           if((max-min)<=k) {
-            index=i;
-            break;
-           }
+        int n = nums.length;
+        int[] suffix = new int[n];
+ 
+        int mn = Integer.MAX_VALUE;
+        // Build suffix minimum
+        for (int i = n - 1; i >= 0; i--) {
+            mn = Math.min(mn, nums[i]);
+            suffix[i] = mn;
         }
-        return index;
+ 
+        int mx = 0;
+        // Find first index with score <= k
+        for (int i = 0; i < n; i++) {
+            mx = Math.max(mx, nums[i]);
+            int score = mx - suffix[i];
+            if (score <= k)
+                return i;
+        }
+ 
+        return -1;
     }
 }
