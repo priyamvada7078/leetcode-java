@@ -1,24 +1,27 @@
 class Solution {
     public int numDistinct(String s, String t) {
-        int n = s.length();
-        int m = t.length();
+        int m = s.length();
+        int n = t.length();
 
-        int[][] dp = new int[n + 1][m + 1];
+        int[] dp = new int[n + 1];
 
-        for (int i = 0; i <= n; i++) {
-            dp[i][m] = 1;
-        }
+        for (int i = 1; i <= m; i++) {
+            int last = 1;
 
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = m - 1; j >= 0; j--) {
-                dp[i][j] = dp[i + 1][j];
+            for (int j = 1; j <= n; j++) {
+                int cur = dp[j];
 
-                if (s.charAt(i) == t.charAt(j)) {
-                    dp[i][j] += dp[i + 1][j + 1];
+                int take = 0, notTake;
+                if (s.charAt(i - 1) == t.charAt(j - 1)) {
+                    take = last;
                 }
+                notTake = cur;
+
+                dp[j] = (take + notTake);
+                last = cur;
             }
         }
 
-        return dp[0][0];
+        return dp[n];
     }
 }
