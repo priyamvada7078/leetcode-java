@@ -1,27 +1,32 @@
 class Solution {
-    public int numDistinct(String s1, String s2) {
-        int mod = 1_000_000_007;
-        int n = s1.length();
-        int m = s2.length();
+    public int solve(int i, int j, String s, String t, int[][] memo) {
+        if (j == t.length())
+            return 1;
 
-        long[] dp = new long[m + 1];
+        if (i == s.length())
+            return 0;
 
-        // Base case: empty s2 can always be formed
-        dp[0] = 1;
+        if (memo[i][j] != -1)
+            return memo[i][j];
 
-        // Process each character of s1
-        for (int i = 0; i < n; i++) {
+        int notTake = solve(i + 1, j, s, t, memo);
+        int take = 0;
 
-            // go right to left (VERY IMPORTANT)
-            for (int j = m - 1; j >= 0; j--) {
-
-                if (s1.charAt(i) == s2.charAt(j)) {
-                    dp[j + 1] = (dp[j + 1] + dp[j]) % mod;
-                }
-            }
+        if (s.charAt(i) == t.charAt(j)) {
+            take = solve(i + 1, j + 1, s, t, memo);
         }
 
-        return (int) dp[m];
+        return memo[i][j] = take + notTake;
+    }
+
+    public int numDistinct(String s, String t) {
+        int n = s.length();
+        int m = t.length();
+
+        int[][] memo = new int[n][m];
+        for (int[] row : memo)
+            java.util.Arrays.fill(row, -1);
+
+        return solve(0, 0, s, t, memo);
     }
 }
-
