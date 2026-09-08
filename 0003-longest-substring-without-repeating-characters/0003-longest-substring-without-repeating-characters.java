@@ -1,7 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] last = new int[128];
 
         int left = 0;
         int max = 0;
@@ -10,11 +10,9 @@ class Solution {
 
             char ch = s.charAt(right);
 
-            if (map.containsKey(ch)) {
-                left = Math.max(left, map.get(ch) + 1);
-            }
+            left = Math.max(left, last[ch]);
 
-            map.put(ch, right);
+            last[ch] = right + 1;
 
             max = Math.max(max, right - left + 1);
         }
