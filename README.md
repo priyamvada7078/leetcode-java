@@ -100,6 +100,7 @@ Preparing for:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
@@ -231,6 +232,7 @@ Preparing for:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
@@ -413,6 +415,7 @@ Preparing for:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyamvada7078/leetcode-java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
