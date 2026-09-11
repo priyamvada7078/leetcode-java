@@ -1,39 +1,25 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> seen = new HashSet<>();
+        int n = digits.length;
 
-        for (int i = 0; i < digits.length; i++) {
-            // First digit cannot be 0
-            if (digits[i] == 0) {
-                continue;
-            }
+        for (int h = 0; h < n; h++) {
+            if (digits[h] == 0) continue;
 
-            for (int j = 0; j < digits.length; j++) {
-                // Same copy cannot be used twice
-                if (j == i) {
-                    continue;
-                }
+            for (int t = 0; t < n; t++) {
+                if (t == h) continue;
 
-                for (int k = 0; k < digits.length; k++) {
-                    // Same copy cannot be used twice
-                    if (k == i || k == j) {
-                        continue;
-                    }
+                for (int u = 0; u < n; u++) {
+                    if (u == h || u == t) continue;
 
-                    // Last digit must be even
-                    if (digits[k] % 2 != 0) {
-                        continue;
-                    }
+                    if (digits[u] % 2 != 0) continue;
 
-                    int num = digits[i] * 100
-                            + digits[j] * 10
-                            + digits[k];
-
-                    set.add(num);
+                    int num = digits[h] * 100 + digits[t] * 10 + digits[u];
+                    seen.add(num);
                 }
             }
         }
 
-        return set.size();
+        return seen.size();
     }
 }
