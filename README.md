@@ -183,6 +183,7 @@ Preparing for:
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0735-asteroid-collision](https://github.com/priyamvada7078/leetcode-java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/priyamvada7078/leetcode-java/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/priyamvada7078/leetcode-java/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
@@ -264,6 +265,7 @@ Preparing for:
 | [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/priyamvada7078/leetcode-java/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyamvada7078/leetcode-java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
