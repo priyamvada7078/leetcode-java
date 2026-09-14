@@ -303,6 +303,7 @@ Preparing for:
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/priyamvada7078/leetcode-java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
@@ -525,4 +526,8 @@ Preparing for:
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyamvada7078/leetcode-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/priyamvada7078/leetcode-java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
