@@ -137,6 +137,7 @@ Preparing for:
 | [0940-distinct-subsequences-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyamvada7078/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
@@ -192,6 +193,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
@@ -244,6 +246,7 @@ Preparing for:
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyamvada7078/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -359,6 +362,7 @@ Preparing for:
 | ------- |
 | [0069-sqrtx](https://github.com/priyamvada7078/leetcode-java/tree/master/0069-sqrtx) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyamvada7078/leetcode-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
@@ -428,6 +432,7 @@ Preparing for:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyamvada7078/leetcode-java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyamvada7078/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
