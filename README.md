@@ -112,6 +112,7 @@ Preparing for:
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/priyamvada7078/leetcode-java/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyamvada7078/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -160,6 +161,7 @@ Preparing for:
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/priyamvada7078/leetcode-java/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -252,6 +254,7 @@ Preparing for:
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyamvada7078/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyamvada7078/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -292,6 +295,7 @@ Preparing for:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
+| [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/priyamvada7078/leetcode-java/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyamvada7078/leetcode-java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -394,6 +398,7 @@ Preparing for:
 | [0739-daily-temperatures](https://github.com/priyamvada7078/leetcode-java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/priyamvada7078/leetcode-java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -493,6 +498,7 @@ Preparing for:
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyamvada7078/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
