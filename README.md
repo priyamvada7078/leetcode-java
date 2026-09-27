@@ -113,6 +113,7 @@ Preparing for:
 | [0402-remove-k-digits](https://github.com/priyamvada7078/leetcode-java/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyamvada7078/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyamvada7078/leetcode-java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -402,6 +403,7 @@ Preparing for:
 | [0901-online-stock-span](https://github.com/priyamvada7078/leetcode-java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamvada7078/leetcode-java/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -567,4 +569,8 @@ Preparing for:
 | ------- |
 | [0836-rectangle-overlap](https://github.com/priyamvada7078/leetcode-java/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/priyamvada7078/leetcode-java/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
