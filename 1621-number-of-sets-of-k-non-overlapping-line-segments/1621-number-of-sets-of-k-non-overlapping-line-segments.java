@@ -1,21 +1,39 @@
 class Solution {
-    public int numberOfSets(int n, int k) {
-        final int MOD = 1_000_000_007;
-        long[][] dp = new long[n][k + 1];
+    private static final long MOD = 1_000_000_007L;
 
-        // 0 segments → exactly 1 way
-        for (int i = 0; i < n; i++) dp[i][0] = 1;
+    private long modPow(long base, long exp) {
+        long result = 1;
 
-        for (int j = 1; j <= k; j++) {
-            long sum = 0;
-            for (int i = 1; i < n; i++) {
-                // Add ways for j-1 segments
-                sum = (sum + dp[i - 1][j - 1]) % MOD;
-                // Don't use i OR end a segment at i
-                dp[i][j] = (dp[i - 1][j] + sum) % MOD;
+        while (exp > 0) {
+            if ((exp & 1L) != 0) {
+                result = result * base % MOD;
             }
+
+            base = base * base % MOD;
+
+            exp >>= 1;
         }
 
-        return (int) dp[n - 1][k];
+        return result;
+    }
+
+    public int numberOfSets(int n, int k) {
+        long N = n + k - 1L;
+        long R = 2L * k;
+
+        R = Math.min(R, N - R);
+
+        long numerator = 1;
+        long denominator = 1;
+
+        for (long i = 1; i <= R; i++) {
+            numerator = numerator * (N - R + i) % MOD;
+
+            denominator = denominator * i % MOD;
+        }
+
+        long inverseDenominator = modPow(denominator, MOD - 2);
+
+        return (int) (numerator * inverseDenominator % MOD);
     }
 }
