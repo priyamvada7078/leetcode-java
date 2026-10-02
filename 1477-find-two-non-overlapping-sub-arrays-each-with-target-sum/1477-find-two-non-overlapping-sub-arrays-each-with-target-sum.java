@@ -1,21 +1,39 @@
+
 class Solution {
     public int minSumOfLengths(int[] arr, int target) {
-        int n=arr.length,i=0,j=0,sum=0,bestLen=Integer.MAX_VALUE,result=Integer.MAX_VALUE;
-        int[]minTillIndex=new int[n];
-        Arrays.fill(minTillIndex,Integer.MAX_VALUE);
-        while(j<n){
-            sum+=arr[j];
-            while(i<j&&sum>target){
-                sum-=arr[i++];
+        int n = arr.length;
+        int INF = n + 1;
+
+        int[] best = new int[n + 1];
+        java.util.Arrays.fill(best, INF);
+
+        int left = 0;
+        int sum = 0;
+        int ans = INF;
+
+        for (int right = 0; right < n; right++) {
+            sum += arr[right];
+
+            while (sum > target) {
+                sum -= arr[left];
+                left++;
             }
-            if(target==sum){
-                int len=j-i+1;
-                if(i>0&&minTillIndex[i-1]!=Integer.MAX_VALUE)result= Math.min(result,len+minTillIndex[i-1]);
-                bestLen=Math.min(len,bestLen);
+
+            best[right + 1] = best[right];
+
+            if (sum == target) {
+                int len = right - left + 1;
+
+                // Combine with a subarray before left
+                if (best[left] != INF) {
+                    ans = Math.min(ans, best[left] + len);
+                }
+
+                best[right + 1] =
+                    Math.min(best[right + 1], len);
             }
-            minTillIndex[j]=bestLen;
-            j++;
         }
-        return result==Integer.MAX_VALUE?-1:result;
+
+        return ans == INF ? -1 : ans;
     }
 }
