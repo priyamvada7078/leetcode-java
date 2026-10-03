@@ -1,21 +1,28 @@
 class Solution {
-    public long[] resultArray(int[] A, int k) {
-        long[] res = new long[k];
-        int[] freq = new int[k];
+    public long[] resultArray(int[] nums, int k) {
+        long[] result = new long[k];
+        long[] dp = new long[k];
 
-        for (int n : A) {
-            n %= k;
-            int[] cur = new int[k];
-            cur[n] = 1;
+        for (int num : nums) {
+            long[] next = new long[k];
 
-            for (int x = 0; x < k; x++)
-                cur[x * n % k] += freq[x];
+            // Start a new subarray containing only num
+            next[num % k]++;
 
-            freq = cur;
-            for (int x = 0; x < k; x++)
-                res[x] += freq[x];
+            // Extend all previous subarrays
+            for (int r = 0; r < k; r++) {
+                int newRemainder = (int) ((long) r * num % k);
+                next[newRemainder] += dp[r];
+            }
+
+            // Add counts to the final result
+            for (int r = 0; r < k; r++) {
+                result[r] += next[r];
+            }
+
+            dp = next;
         }
 
-        return res;
+        return result;
     }
 }
