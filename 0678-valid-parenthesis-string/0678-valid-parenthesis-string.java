@@ -1,20 +1,50 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int low = 0, high = 0;
-        for (char c : s.toCharArray()) {
+
+        Stack<Integer> open = new Stack<>();
+        Stack<Integer> star = new Stack<>();
+
+        for (int i = 0; i < s.length(); i++) {
+
+            char c = s.charAt(i);
+
             if (c == '(') {
-                low++;
-                high++;
-            } else if (c == ')') {
-                low--;
-                high--;
-            } else {
-                low--;
-                high++;
+                open.push(i);
             }
-            if (high < 0) return false;
-            if (low < 0) low = 0;
+
+            else if (c == '*') {
+                star.push(i);
+            }
+
+            else { // c == ')'
+
+                if (!open.isEmpty()) {
+                    open.pop();
+                }
+
+                else if (!star.isEmpty()) {
+                    star.pop();
+                }
+
+                else {
+                    return false;
+                }
+            }
         }
-        return low == 0;
+
+        // Match remaining '(' with '*' that come after them
+        while (!open.isEmpty() && !star.isEmpty()) {
+
+            if (open.peek() < star.peek()) {
+                open.pop();
+                star.pop();
+            }
+
+            else {
+                return false;
+            }
+        }
+
+        return open.isEmpty();
     }
 }
