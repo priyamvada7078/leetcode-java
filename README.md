@@ -111,6 +111,7 @@ Preparing for:
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/priyamvada7078/leetcode-java/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/priyamvada7078/leetcode-java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0856-score-of-parentheses) |
@@ -169,6 +170,7 @@ Preparing for:
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/priyamvada7078/leetcode-java/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
@@ -308,6 +310,7 @@ Preparing for:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/priyamvada7078/leetcode-java/tree/master/3310-remove-methods-from-project) |
