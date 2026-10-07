@@ -1,108 +1,46 @@
 class Solution {
-
-    Set<String> sb = new HashSet<>();
-
     public List<String> removeInvalidParentheses(String s) {
+        List<String> res = new ArrayList<>();
+        fwd(s, res, 0, 0);
 
-        int removeLeft = 0;
-        int removeRight = 0;
-
-        // Find minimum number of '(' and ')' to remove
-        for (char ch : s.toCharArray()) {
-
-            if (ch == '(') {
-                removeLeft++;
-            } 
-            else if (ch == ')') {
-
-                if (removeLeft > 0) {
-                    removeLeft--;
-                } 
-                else {
-                    removeRight++;
-                }
-            }
-        }
-
-        dfs(0, 0, removeLeft, removeRight, "", s);
-
-        return new ArrayList<>(sb);
+        return res;
     }
 
-    private void dfs(int index, int bal,
-                     int removeLeft, int removeRight,
-                     String curr, String s) {
+    private void fwd(String s, List<String> res, int li, int lj) {
+        int bal = 0;
 
-        // Entire string processed
-        if (index == s.length()) {
+        for (int i = li; i < s.length(); i++) {
+            if (s.charAt(i) == '(') bal++;
+            if (s.charAt(i) == ')') bal--;
 
-            if (bal == 0 &&
-                removeLeft == 0 &&
-                removeRight == 0) {
+            if (bal >= 0) continue;
 
-                sb.add(curr);
-            }
+            for (int j = lj; j <= i; j++)
+                if (s.charAt(j) == ')' && (j == lj || s.charAt(j - 1) != ')'))
+                    fwd(s.substring(0, j) + s.substring(j + 1), res, i, j);
 
             return;
         }
 
-        char ch = s.charAt(index);
+        bwd(s, res, s.length() - 1, s.length() - 1);
+    }
 
-        // ---------------- '(' ----------------
-        if (ch == '(') {
+    private void bwd(String s, List<String> res, int ri, int rj) {
+        int bal = 0;
 
-            // REMOVE '('
-            if (removeLeft > 0) {
-                dfs(index + 1,
-                    bal,
-                    removeLeft - 1,
-                    removeRight,
-                    curr,
-                    s);
-            }
+        for (int i = ri; i >= 0; i--) {
+            if (s.charAt(i) == ')') bal++;
+            if (s.charAt(i) == '(') bal--;
 
-            // KEEP '('
-            dfs(index + 1,
-                bal + 1,
-                removeLeft,
-                removeRight,
-                curr + '(',
-                s);
+            if (bal >= 0) continue;
+
+            for (int j = rj; j >= i; j--)
+                if (s.charAt(j) == '(' && (j == rj || s.charAt(j + 1) != '('))
+                    bwd(s.substring(0, j) + s.substring(j + 1), res, i - 1, j - 1);
+
+            return;
         }
 
-        // ---------------- ')' ----------------
-        else if (ch == ')') {
-
-            // REMOVE ')'
-            if (removeRight > 0) {
-                dfs(index + 1,
-                    bal,
-                    removeLeft,
-                    removeRight - 1,
-                    curr,
-                    s);
-            }
-
-            // KEEP ')' only if there is '(' available
-            if (bal > 0) {
-                dfs(index + 1,
-                    bal - 1,
-                    removeLeft,
-                    removeRight,
-                    curr + ')',
-                    s);
-            }
-        }
-
-        // ---------------- Letter ----------------
-        else {
-
-            dfs(index + 1,
-                bal,
-                removeLeft,
-                removeRight,
-                curr + ch,
-                s);
-        }
+        res.add(s);
     }
 }
