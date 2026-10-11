@@ -142,6 +142,7 @@ Preparing for:
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/priyamvada7078/leetcode-java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/priyamvada7078/leetcode-java/tree/master/0877-stone-game) |
@@ -194,6 +195,7 @@ Preparing for:
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0260-single-number-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/priyamvada7078/leetcode-java/tree/master/0496-next-greater-element-i) |
@@ -606,4 +608,12 @@ Preparing for:
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyamvada7078/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
