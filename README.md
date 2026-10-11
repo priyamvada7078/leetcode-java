@@ -221,6 +221,7 @@ Preparing for:
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/priyamvada7078/leetcode-java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -381,6 +382,7 @@ Preparing for:
 | ------- |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyamvada7078/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyamvada7078/leetcode-java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyamvada7078/leetcode-java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
