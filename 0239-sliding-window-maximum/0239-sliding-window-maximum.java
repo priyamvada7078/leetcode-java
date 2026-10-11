@@ -1,27 +1,32 @@
+
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
+        int[] left = new int[n];
+        int[] right = new int[n];
         int[] ans = new int[n - k + 1];
 
-        // {value, index}
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            (a, b) -> b[0] - a[0]
-        );
-
+        // Maximum from the start of each block to index i
         for (int i = 0; i < n; i++) {
-
-            // Insert current element
-            pq.offer(new int[]{nums[i], i});
-
-            // Remove elements outside the current window
-            while (pq.peek()[1] <= i - k) {
-                pq.poll();
+            if (i % k == 0) {
+                left[i] = nums[i];
+            } else {
+                left[i] = Math.max(left[i - 1], nums[i]);
             }
+        }
 
-            // Store answer when the first window is complete
-            if (i >= k - 1) {
-                ans[i - k + 1] = pq.peek()[0];
+        // Maximum from index i to the end of its block
+        for (int i = n - 1; i >= 0; i--) {
+            if (i == n - 1 || (i + 1) % k == 0) {
+                right[i] = nums[i];
+            } else {
+                right[i] = Math.max(right[i + 1], nums[i]);
             }
+        }
+
+        // Maximum of each window
+        for (int i = 0; i < ans.length; i++) {
+            ans[i] = Math.max(right[i], left[i + k - 1]);
         }
 
         return ans;
