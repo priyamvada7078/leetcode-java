@@ -142,6 +142,7 @@ Preparing for:
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/priyamvada7078/leetcode-java/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/priyamvada7078/leetcode-java/tree/master/0486-predict-the-winner) |
@@ -193,6 +194,7 @@ Preparing for:
 | [0136-single-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/priyamvada7078/leetcode-java/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
