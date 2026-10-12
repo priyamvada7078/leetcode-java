@@ -136,6 +136,7 @@ Preparing for:
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
@@ -310,6 +311,7 @@ Preparing for:
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
@@ -337,6 +339,7 @@ Preparing for:
 | [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/priyamvada7078/leetcode-java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/priyamvada7078/leetcode-java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/priyamvada7078/leetcode-java/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/priyamvada7078/leetcode-java/tree/master/0282-expression-add-operators) |
