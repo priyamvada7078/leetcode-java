@@ -227,6 +227,7 @@ Preparing for:
 | [2104-sum-of-subarray-ranges](https://github.com/priyamvada7078/leetcode-java/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/priyamvada7078/leetcode-java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyamvada7078/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -412,6 +413,7 @@ Preparing for:
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyamvada7078/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyamvada7078/leetcode-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
@@ -483,6 +485,7 @@ Preparing for:
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priyamvada7078/leetcode-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyamvada7078/leetcode-java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -500,6 +503,7 @@ Preparing for:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -540,6 +544,7 @@ Preparing for:
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyamvada7078/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/3731-find-missing-elements) |
