@@ -156,6 +156,7 @@ Preparing for:
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyamvada7078/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/priyamvada7078/leetcode-java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -218,6 +219,7 @@ Preparing for:
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyamvada7078/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyamvada7078/leetcode-java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
@@ -324,6 +326,7 @@ Preparing for:
 | [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Preparing for:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyamvada7078/leetcode-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
@@ -361,6 +365,7 @@ Preparing for:
 | [1401-circle-and-rectangle-overlapping](https://github.com/priyamvada7078/leetcode-java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyamvada7078/leetcode-java/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyamvada7078/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
@@ -395,6 +400,7 @@ Preparing for:
 | ------- |
 | [0190-reverse-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/priyamvada7078/leetcode-java/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -605,15 +611,18 @@ Preparing for:
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyamvada7078/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyamvada7078/leetcode-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyamvada7078/leetcode-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyamvada7078/leetcode-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -649,4 +658,12 @@ Preparing for:
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyamvada7078/leetcode-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
