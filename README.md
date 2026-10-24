@@ -124,6 +124,7 @@ Preparing for:
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyamvada7078/leetcode-java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyamvada7078/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/priyamvada7078/leetcode-java/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2409-count-days-spent-together](https://github.com/priyamvada7078/leetcode-java/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyamvada7078/leetcode-java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyamvada7078/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -375,6 +376,7 @@ Preparing for:
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyamvada7078/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/priyamvada7078/leetcode-java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/priyamvada7078/leetcode-java/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/priyamvada7078/leetcode-java/tree/master/2409-count-days-spent-together) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/priyamvada7078/leetcode-java/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyamvada7078/leetcode-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyamvada7078/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
