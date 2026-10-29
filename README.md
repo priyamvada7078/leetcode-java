@@ -140,6 +140,7 @@ Preparing for:
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/priyamvada7078/leetcode-java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
@@ -195,6 +196,7 @@ Preparing for:
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/priyamvada7078/leetcode-java/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyamvada7078/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
@@ -328,6 +330,7 @@ Preparing for:
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyamvada7078/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/priyamvada7078/leetcode-java/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/priyamvada7078/leetcode-java/tree/master/0835-image-overlap) |
