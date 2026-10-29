@@ -138,6 +138,7 @@ Preparing for:
 | [0022-generate-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/priyamvada7078/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/priyamvada7078/leetcode-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
@@ -373,6 +374,7 @@ Preparing for:
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyamvada7078/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/priyamvada7078/leetcode-java/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/priyamvada7078/leetcode-java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/priyamvada7078/leetcode-java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/priyamvada7078/leetcode-java/tree/master/0204-count-primes) |
@@ -636,6 +638,7 @@ Preparing for:
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/priyamvada7078/leetcode-java/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyamvada7078/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyamvada7078/leetcode-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
