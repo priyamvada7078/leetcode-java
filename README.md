@@ -133,6 +133,7 @@ Preparing for:
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/priyamvada7078/leetcode-java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/priyamvada7078/leetcode-java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/priyamvada7078/leetcode-java/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,6 +383,7 @@ Preparing for:
 | [0785-is-graph-bipartite](https://github.com/priyamvada7078/leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
 | [3310-remove-methods-from-project](https://github.com/priyamvada7078/leetcode-java/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -557,6 +559,7 @@ Preparing for:
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/priyamvada7078/leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -712,4 +715,8 @@ Preparing for:
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyamvada7078/leetcode-java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/priyamvada7078/leetcode-java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
