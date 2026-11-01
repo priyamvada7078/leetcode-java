@@ -146,6 +146,7 @@ Preparing for:
 | [0070-climbing-stairs](https://github.com/priyamvada7078/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/priyamvada7078/leetcode-java/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/priyamvada7078/leetcode-java/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
@@ -204,6 +205,7 @@ Preparing for:
 | [0084-largest-rectangle-in-histogram](https://github.com/priyamvada7078/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/priyamvada7078/leetcode-java/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/priyamvada7078/leetcode-java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/priyamvada7078/leetcode-java/tree/master/0139-word-break) |
