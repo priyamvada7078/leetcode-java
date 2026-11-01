@@ -1,24 +1,11 @@
 class Solution {
-    public int minimumTotal(List<List<Integer>> triangle) {
-
-        int n = triangle.size();
-        int[] dp = new int[n];
-
-        // Copy last row into dp
-        for (int j = 0; j < n; j++) {
-            dp[j] = triangle.get(n - 1).get(j);
-        }
-
-        // Traverse from second-last row to first row
-        for (int i = n - 2; i >= 0; i--) {
-            for (int j = 0; j < triangle.get(i).size(); j++) {
-
-                dp[j] = triangle.get(i).get(j)
-                     + Math.min(dp[j], dp[j + 1]);
-
-            }
-        }
-
-        return dp[0];
+    public int minimumTotal(List<List<Integer>> tri) {
+        for (int i = tri.size() - 2; i >= 0; i--)
+            for (int j = 0; j < tri.get(i).size(); j++)
+                tri.get(i).set(j, tri.get(i).get(j) + Math.min(
+                    tri.get(i + 1).get(j),
+                    tri.get(i + 1).get(j + 1)
+                ));
+        return tri.get(0).get(0);
     }
 }
