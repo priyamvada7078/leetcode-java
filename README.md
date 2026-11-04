@@ -162,6 +162,7 @@ Preparing for:
 | [0931-minimum-falling-path-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -234,6 +235,7 @@ Preparing for:
 | [0997-find-the-town-judge](https://github.com/priyamvada7078/leetcode-java/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/priyamvada7078/leetcode-java/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
@@ -351,6 +353,7 @@ Preparing for:
 | [0931-minimum-falling-path-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/priyamvada7078/leetcode-java/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/priyamvada7078/leetcode-java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/priyamvada7078/leetcode-java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
