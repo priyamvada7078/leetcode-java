@@ -237,6 +237,7 @@ Preparing for:
 | [1140-stone-game-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/priyamvada7078/leetcode-java/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/priyamvada7078/leetcode-java/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyamvada7078/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/priyamvada7078/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/priyamvada7078/leetcode-java/tree/master/1470-shuffle-the-array) |
@@ -481,6 +482,7 @@ Preparing for:
 | ------- |
 | [0069-sqrtx](https://github.com/priyamvada7078/leetcode-java/tree/master/0069-sqrtx) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyamvada7078/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyamvada7078/leetcode-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/priyamvada7078/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/priyamvada7078/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -544,6 +546,7 @@ Preparing for:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyamvada7078/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyamvada7078/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyamvada7078/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/priyamvada7078/leetcode-java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -620,6 +623,7 @@ Preparing for:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyamvada7078/leetcode-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/priyamvada7078/leetcode-java/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyamvada7078/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyamvada7078/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/priyamvada7078/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/priyamvada7078/leetcode-java/tree/master/2333-minimum-sum-of-squared-difference) |
